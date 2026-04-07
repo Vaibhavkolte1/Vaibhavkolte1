@@ -51,8 +51,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="45" />
 </a>
 
-<a href="https://wa.me/917776015152" target="_blank">
-  <img src="" height="45" />
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="45" />
 </a>
 
 </div>
